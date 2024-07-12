@@ -1,4 +1,6 @@
 ## Creating a full blog app using React JS and Tailwind CSS involves several steps. Here's a comprehensive guide to build this app. We'll cover:
+![image](https://github.com/user-attachments/assets/b69ea2a0-8cee-4821-b453-961648ef8c39)
+
 
 1. Setting up the React app
 2. Adding Tailwind CSS
